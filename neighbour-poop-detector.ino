@@ -4,8 +4,8 @@
 #include <DHT.h>
 #include <DHT_U.h>
 
-#define WIFI_SSID "WI-FI"
-#define WIFI_PASSWORD "ron-2021"
+#define WIFI_SSID ""
+#define WIFI_PASSWORD ""
 
 WiFiServer server(80);
 IPAddress local_IP(192, 168, 0, 201);
